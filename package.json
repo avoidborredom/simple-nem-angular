@@ -20,7 +20,7 @@
     "@angular/platform-browser": "~8.0.0",
     "@angular/platform-browser-dynamic": "~8.0.0",
     "@angular/router": "~8.0.0",
-    "nem-library": "^1.0.9",
+    "nem-library": "^2.0.0-RC4",
     "rxjs": "^5.6.0-forward-compat.5",
     "tslib": "^1.9.0",
     "zone.js": "~0.9.1"
